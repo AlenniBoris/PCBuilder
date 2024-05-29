@@ -55,3 +55,10 @@ To deploy this app do the following:
 It is important that you have the system installed on your device node.js.
 
 It is also important that the server is on port 9090, otherwise the server will give an error.
+
+## Authors
+
+- [@AlenniBoris](https://github.com/AlenniBoris)
+- [@GatalskiAnton](https://github.com/GatalskiAnton)
+- [@VidevichA](https://github.com/VidevichA)
+```
